@@ -1,1 +1,1 @@
-"""NeuroGuard AI backend package."""
+"""Utility helpers for the NeuroGuard AI backend."""
